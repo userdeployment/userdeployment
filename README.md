@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @userdeployment
-- 👀 I’m interested in html,javaskript,css, c/c++, python
+- 👀 I’m interested in html, javaskript, css, c/c++, python
 - 🌱 I’m currently learning python
 
 <!---
